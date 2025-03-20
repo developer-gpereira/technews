@@ -84,7 +84,7 @@ section header {
 #ai {
   grid-area: ai;
   img {
-    width: 170px;
+    width: 176px;
     aspect-ratio: 1/1;
     object-fit: cover;
   }
@@ -96,6 +96,12 @@ section header {
 
 aside {
   grid-area: aside;
+
+  img{
+    width: 450px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+  }
 }
 
 #more {
